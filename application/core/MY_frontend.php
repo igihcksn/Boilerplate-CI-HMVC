@@ -14,7 +14,7 @@ class MY_frontend extends MX_Controller {
         
     function view($data){
 		$this->load->view('back',$data);
-	}
+    }
 
 
 }
